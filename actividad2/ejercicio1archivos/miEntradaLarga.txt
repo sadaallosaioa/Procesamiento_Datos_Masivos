@@ -1,0 +1,210 @@
+Alice;Tarjeta de crédito;100
+Alice;Tarjeta de crédito;150
+Alice;Bizum;200
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Saioa;Cash;20
+Alice;Tarjeta de crédito;150
+Alice;Bizum;200
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;22.25
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;203.5
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
+Bob;Tarjeta de crédito;201
+Luis;Bizum;300
+Saioa;Tarjeta de crédito;20
+Saioa;Tarjeta de crédito;200
+Xabi;Cash;2000
